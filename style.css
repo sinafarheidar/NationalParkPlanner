@@ -4,7 +4,7 @@ html {
   }
 
 body{
-    background-image: url("/nationalpark.jpg");
+    background-image: url("nationalpark.jpg");
 }
 
 .container{
